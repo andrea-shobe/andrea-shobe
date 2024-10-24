@@ -1,4 +1,4 @@
-## Grad student at Northwest Missouri State University
+## Grad Student at Northwest Missouri State University
 
 <!--
 **andrea-shobe/andrea-shobe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
